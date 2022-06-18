@@ -3,9 +3,6 @@
 [![Typing SVG][![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cascadia+code&color=0C9208&vCenter=true&lines=Tcdtist%2C+hello+world+!;%E0%BC%BC+%E3%81%A4+%E2%97%95_%E2%97%95+%E0%BC%BD%E3%81%A4)](https://git.io/typing-svg)
 
 
-
-![tcdtist snake gif](https://github.com/tcdtist/tcdtist/blob/snake/github-contribution-grid-snake.svg)
-
 <!-- ## Github Contributions 📈 -->
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=tcdtist&theme=react-dark&hide_border=true">
@@ -64,7 +61,7 @@ Here are some ideas to get you started:
 </p>
   
   <b align="left">Support:</b>
-<p><a href="https://www.buymeacoffee.com/tcdtist"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="phuocantd" /></a><a href="https://ko-fi.com/tcdtist"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="phuocantd" /></a></p>
+<p><a href="https://www.buymeacoffee.com/tcdtist"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tcdtist" /></a><a href="https://ko-fi.com/tcdtist"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="tcdtist" /></a></p>
   
   
 </details>
