@@ -9,9 +9,11 @@
 <p>
   
   
-| ![tcdtist's github stats](https://github-readme-stats.vercel.app/api?username=tcdtist&show_icons=true&theme=react)             | ![tcdtist GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tcdtist&theme=react)                                                                                                           |
+| ![tcdtist's github stats](https://github-readme-stats.vercel.app/api?username=tcdtist&show_icons=true&theme=react)             
+| ![tcdtist GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tcdtist&theme=react)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcdtist&langs_count=8&theme=react&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=tcdtist&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcdtist&langs_count=8&theme=react&layout=compact) 
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=tcdtist&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) |
   
 <!--
 **tcdtist/tcdtist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -60,8 +62,9 @@ Here are some ideas to get you started:
 <a href="https://www.topcoder.com/members/tcdtist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="tcdtist" height="30" width="40" /></a>
 </p>
   
-  <b align="left">Support:</b>
-<p><a href="https://www.buymeacoffee.com/tcdtist"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tcdtist" /></a><a href="https://ko-fi.com/tcdtist"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="tcdtist" /></a></p>
-  
+<b align="left">Support:</b>
+<a href="https://www.buymeacoffee.com/tcdtist" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="200" style="height: 60px !important;width: 217px !important;" >
+</a>
   
 </details>
