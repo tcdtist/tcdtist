@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG][![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cascadia+code&color=0C9208&vCenter=true&lines=Tcdtist%2C+hello+world+!;%E0%BC%BC+%E3%81%A4+%E2%97%95_%E2%97%95+%E0%BC%BD%E3%81%A4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cascadia+code&color=0C9208&vCenter=true&lines=Tcdtist%2C+hello+world+!;%E0%BC%BC+%E3%81%A4+%E2%97%95_%E2%97%95+%E0%BC%BD%E3%81%A4)](https://git.io/typing-svg)
 
 
 <!-- ## Github Contributions 📈 -->
