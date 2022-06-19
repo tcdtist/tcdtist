@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <a href="https://www.topcoder.com/members/tcdtist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="tcdtist" height="30" width="40" /></a>
 </p>
   
-<b align="left">Support:</b><br/>
+<b align="left">Support:</b> <br/><br/>
 <a href="https://www.buymeacoffee.com/tcdtist" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="200" style="height: 60px !important;width: 217px !important;" >
 </a>
