@@ -1,4 +1,5 @@
 ### Hi there 👋
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cascadia+code&color=0C9208&vCenter=true&lines=Tcdtist%2C+hello+world+!;%E0%BC%BC+%E3%81%A4+%E2%97%95_%E2%97%95+%E0%BC%BD%E3%81%A4)](https://git.io/typing-svg)
 
@@ -62,7 +63,7 @@ Here are some ideas to get you started:
 <a href="https://www.topcoder.com/members/tcdtist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="tcdtist" height="30" width="40" /></a>
 </p>
   
-<b align="left">Support:</b>
+<b align="left">Support:</b><br/>
 <a href="https://www.buymeacoffee.com/tcdtist" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="200" style="height: 60px !important;width: 217px !important;" >
 </a>
