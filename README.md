@@ -38,30 +38,7 @@ Here are some ideas to get you started:
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=tcdtist.tcdtist" /> -->
 <details>
 <summary>Click for view detail</summary>
-  <br>
-
-  
-📫- <b>How to reach me:</b> <br/>
-<p align="left">
-<a href="https://codepen.io/tcdtist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tcdtist" height="30" width="40" /></a>
-<a href="https://dev.to/tcdtist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tcdtist" height="30" width="40" /></a>
-<a href="https://twitter.com/tcdtist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phuocantd_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tcdtist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phuocantd" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7294147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7294147" height="30" width="40" /></a>
-<a href="https://codesandbox.com/tcdtist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="phuocantd" height="30" width="40" /></a>
-<a href="https://kaggle.com/annguynphc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="annguynphc" height="30" width="40" /></a>
-<a href="https://dribbble.com/tcdtist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="phuocantd" height="30" width="40" /></a>
-<a href="https://www.behance.net/tcdtist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tcdtist" height="30" width="40" /></a>
-<a href="https://hashnode.com/@tcdtist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@tcdtist" height="30" width="40" /></a>
-<a href="https://medium.com/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="tcdtist" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tcdtist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tcdtist" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tcdtist" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tcdtist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tcdtist" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tcdtist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tcdtist" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/nguyen194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="nguyen194" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/phuocf9an" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="phuocf9an" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/tcdtist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="tcdtist" height="30" width="40" /></a>
-</p>
+<br>
   
 <b align="left">Support:</b> <br/><br/>
 <a href="https://www.buymeacoffee.com/tcdtist" target="_blank">
