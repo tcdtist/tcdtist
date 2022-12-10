@@ -30,9 +30,10 @@
 </div>
 
   
-| ![tcdtist's github stats](https://github-readme-stats.vercel.app/api?username=tcdtist&show_icons=true&theme=react)             | ![tcdtist GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tcdtist&theme=react)                                                                                                           |
+| ![tcdtist's github stats](https://github-readme-stats.vercel.app/api?username=tcdtist&show_icons=true&locale=en&count_private=true&theme=react) 
+| ![tcdtist GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tcdtist&theme=react)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![tcdtist's github stats](https://github-readme-stats.vercel.app/api?username=tcdtist&show_icons=true&locale=en&count_private=true&theme=react) |
+
   
 <p align='center'>
 <br/>
