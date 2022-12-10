@@ -22,13 +22,13 @@
 </br>
 
   
-![tcdtist's github stats](https://github-readme-stats.vercel.app/api?username=tcdtist&show_icons=true&locale=en&count_private=true&theme=react) 
+![tcdtist's Github Stats](https://github-readme-stats.vercel.app/api?username=tcdtist&show_icons=true&locale=en&count_private=true&theme=react) 
 ![tcdtist GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tcdtist&theme=react)  
 
 <p align='center'>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcdtist&layout=compact&theme=react)
+![tcdtist's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tcdtist&layout=compact&theme=react)
 
   
 <p align='center'>
