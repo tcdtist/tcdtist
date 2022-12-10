@@ -32,11 +32,6 @@
 
 </div>
 
-<!-- ## Github Contributions 📈 -->
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=tcdtist&theme=react-dark&hide_border=true">
-<p>
-  
   
 | ![tcdtist's github stats](https://github-readme-stats.vercel.app/api?username=tcdtist&show_icons=true&theme=react)             | ![tcdtist GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tcdtist&theme=react)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
