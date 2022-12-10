@@ -23,14 +23,6 @@
 
 <div align="center">
 </br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tcdtist&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=D93A7C&icon_color=F7D747&text_color=A9FEF7&bg_color=0,000000,141321" alt="Chí Thanh Github Stats">
-</br>
-</br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcdtist&theme=tokyonight&langs_count=6&layout=compact&hide=tsql,html,pug,css" alt="Chí Thanh Github Stats">
-
-</br>
-</br>
 
 <i>Follow me around the website:</i><br>
 
@@ -39,13 +31,6 @@
 <a href="https://www.facebook.com/chithanh.tist/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 </div>
-
----
-
-Credits: [ChiThanh](https://github.com/tcdtist/)
-
-Last Edited on: 11/12/2022
-
 
 <!-- ## Github Contributions 📈 -->
 <p align='center'>
@@ -57,35 +42,15 @@ Last Edited on: 11/12/2022
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=tcdtist&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) |
   
+<p align='center'>
+<br/>
   
-  
-<!--
-**tcdtist/tcdtist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="left">
-
 ![](https://komarev.com/ghpvc/?username=tcdtist&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 </div>  
 
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=tcdtist.tcdtist" /> -->
-<details>
-<summary>Click for view detail</summary>
-<br>
-  
-<b align="left">Support:</b> <br/><br/>
-<a href="https://www.buymeacoffee.com/tcdtist" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="200" style="height: 60px !important;width: 217px !important;" >
-</a>
-  
-</details>
+
+---
+
+Credits: [ChiThanh](https://github.com/tcdtist/)
+
+Last Edited on: 11/12/2022
