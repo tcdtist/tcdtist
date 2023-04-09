@@ -28,7 +28,7 @@
 <p align='center'>
 <br/>
 
-![tcdtist's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tcdtist&layout=compact&theme=react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcdtist&layout=compact&theme=react)]
 
   
 <p align='center'>
