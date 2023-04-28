@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/hC2mA1FWFs2OowO60p/giphy.gif" />
 
 ## I'm a Frontend Developer and Engineering Student (Information System) at the FPTU
-# Front-end & Back-end Developer | JavaScript | React | MERN Stack | MVC Project
+Front-end & Back-end Developer | JavaScript | React | MERN Stack | MVC Project
 
 - 👨‍💻 I am currently working on web development technologies like JavaScript, React, MERN Stack, MVC Project, etc.
 - 📚 I am currently learning everything about Frontend and Backend technology 😍
