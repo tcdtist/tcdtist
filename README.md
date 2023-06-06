@@ -2,8 +2,6 @@
 <h1> Hi there 👋, i'm <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h1>
 </div>
 
-![](https://komarev.com/ghpvc/?username=tcdtist&color=blueviolet)
-
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/hC2mA1FWFs2OowO60p/giphy.gif" />
 
 ## Front-end Developer | JavaScript | React | MERN Stack | MVC Project
@@ -24,7 +22,28 @@
 <div align="center">
 </br>
 
-  
+<p align = "center">
+  <img  src = "https://denvercoder1-github-readme-stats.vercel.app/api?username=tcdtist&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tcdtist&theme=tokyonight">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tcdtist&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+</p>
+
+<h2 align="center">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+
+<p align = "center">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tcdtist&theme=tokyo-night">
+</p>
+
+<br>
+
+<p align="center" style="height:400px">
+  <img src="https://kasroudra-stats-card.onrender.com/lang?user=tcdtist&layout=compact&type=donut&theme=tokyonight" height="400px"></center>
+</p>
 
   
 <p align='center'>
