@@ -31,7 +31,10 @@
 <p align='center'>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcdtist&layout=compact&theme=react)]
+<p align = "center">
+  <img  src = "https://denvercoder1-github-readme-stats.vercel.app/api?username=tcdtist&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tcdtist&theme=tokyonight">
+</p>
 
   
 <p align='center'>
