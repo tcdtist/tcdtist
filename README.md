@@ -24,11 +24,6 @@
 
 <p align = "center">
   <img  src = "https://denvercoder1-github-readme-stats.vercel.app/api?username=tcdtist&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tcdtist&theme=tokyonight">
-</p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tcdtist&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 </p>
   
 <p align='center'>
