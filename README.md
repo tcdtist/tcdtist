@@ -22,8 +22,6 @@
 <div align="center">
 </br>
 
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=tcdtist&theme=react)](https://github.com/KasRoudra/github-stats-card)
-
 <p align = "center">
   <img  src = "https://denvercoder1-github-readme-stats.vercel.app/api?username=tcdtist&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tcdtist&theme=tokyonight">
@@ -32,11 +30,6 @@
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tcdtist&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 </p>
-
-<p align="center" style="height:400px">
-  <img src="https://kasroudra-stats-card.onrender.com/lang?user=tcdtist&layout=compact&type=donut&theme=tokyonight" height="400px"></center>
-</p>
-
   
 <p align='center'>
 <br/>
