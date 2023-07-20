@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Hi there 👋, i'm <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h1>
+<h1> Hi there 👋, i'm a <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/>! </h1>
 </div>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/hC2mA1FWFs2OowO60p/giphy.gif" />
