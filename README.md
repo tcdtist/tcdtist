@@ -12,6 +12,11 @@
 - ⚡ Interesting information: Open and friendly. I love reading books, watching movies, and coding.
 
 ---
+
+## 📊 Statistics
+[![Tcdtist's github stats](https://github-readme-stats.vercel.app/api?username=tcdtist&theme=vscode&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
   
 <p align='center'>
 <br/>
