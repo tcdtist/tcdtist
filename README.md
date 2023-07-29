@@ -4,27 +4,14 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/hC2mA1FWFs2OowO60p/giphy.gif" />
 
-## Front-end Developer | JavaScript | React | MERN Stack | MVC Project
+## MERN Stack
 
 - 👨‍💻 I am currently working on web development technologies like JavaScript, React, MERN Stack, MVC Project, etc.
 - 📚 I am currently learning everything about Frontend and Backend technology 😍
 - 🎯 Future goal: Learn more technologies - Learn to become a full-stack developer.
 - ⚡ Interesting information: Open and friendly. I love reading books, watching movies, and coding.
 
-
 ---
-
-## Project for learning
-...
-
----
-
-<div align="center">
-</br>
-
-<p align = "center">
-  <img  src = "https://denvercoder1-github-readme-stats.vercel.app/api?username=tcdtist&show_icons=true&theme=tokyonight&line_height=27">
-</p>
   
 <p align='center'>
 <br/>
