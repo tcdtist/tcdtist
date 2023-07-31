@@ -47,10 +47,9 @@ Last Edited on: 17/7/2023
   
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=tcdtist&show_icons=true&count_private=true&hide_border=true&title_color=ffeb3b&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="ArtemShchirov github stats" />
   
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcdtist&layout=compact&hide_border=true&title_color=ffeb3b&text_color=00bfbf&bg_color=0d1117" />
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcdtist&hide_progress=true&layout=compact&hide_border=true&title_color=ffeb3b&text_color=00bfbf&bg_color=0d1117" />
   
   <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=tcdtist&theme=onedark&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="tcdtist github stats" />
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tcdtist&theme=onedark)](https://git.io/streak-stats)
   
   <h3 > Skills </h3>
   <img src="https://skillicons.dev/icons?i=html5,css3,javascript,typescript,react" />
