@@ -1,6 +1,6 @@
-<div align="center">
-<h1> Hi there 👋, i'm a <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/>! </h1>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffeb3b&height=180&section=header&text=Chi%20Thanh%20Dang&fontSize=30&fontColor=000&animation=twinkling&fontAlignY=35"/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffeb3b&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE,+++I'M++WEB+DEVELOPER;MY+EXPERIENCE+>+3+YEARS+IN+PROGRAMMING)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/hC2mA1FWFs2OowO60p/giphy.gif" />
 
@@ -13,46 +13,15 @@
 
 ---
   
-<p align='center'>
-<br/>
-  
-![](https://komarev.com/ghpvc/?username=tcdtist&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
-</div>  
-
-<i>Follow me around the website:</i><br>
-
-<a href="https://www.linkedin.com/in/chi-thanh-dang-b4a754193/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/tcdtist_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/chithanh.tist/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-
-</div>
-
+![](https://komarev.com/ghpvc/?username=tcdtist&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen) 
 
 ---
-
-Credits: [ChiThanh](https://github.com/tcdtist/)
-
-Last Edited on: 17/7/2023
-
----
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffeb3b&height=180&section=header&text=Chi%20Thanh%20Dang&fontSize=30&fontColor=000&animation=twinkling&fontAlignY=35"/>
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffeb3b&size=35&center=true&vCenter=true&width=1000&lines=HI,+THERE;I'M++WEB+DEVELOPER;MY+EXPERIENCE+>+3+YEARS+IN+PROGRAMMING)
-
 
 <div align="center">  
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=tcdtist&theme=one-dark&hide_border=true&area=true&radius=7" />
-  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=tcdtist&show_icons=true&count_private=true&hide_border=true&title_color=ffeb3b&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="ArtemShchirov github stats" />
-  
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcdtist&hide_progress=true&layout=compact&hide_border=true&title_color=ffeb3b&text_color=00bfbf&bg_color=0d1117" />
-  
   <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=tcdtist&theme=onedark&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="tcdtist github stats" />
   
   <h3 > Skills </h3>
-  <img src="https://skillicons.dev/icons?i=html5,css3,javascript,typescript,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" />
 
   <h3> Tools </h3>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,nginx,figma" />
@@ -64,11 +33,14 @@ Last Edited on: 17/7/2023
   <img src="https://skillicons.dev/icons?i=tailwind,docker,next,vite,redux,graphql" />
 
   <h3> Contact </h3>
-  <a href="https://tcdtist.github.io/portfolio/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/chithanh-tist/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://telegram.me/tcdtist"><img src="https://img.shields.io/badge/telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
+---
+
+Credits: [ChiThanh](https://github.com/tcdtist/)
+
+Last Edited on: 17/7/2023
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffeb3b&height=120&section=footer"/>
-
