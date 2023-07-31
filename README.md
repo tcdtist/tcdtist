@@ -37,8 +37,6 @@
   
 ![](https://komarev.com/ghpvc/?username=tcdtist&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen) 
 
----
-
 Credits: [ChiThanh](https://github.com/tcdtist/)
 
 Last Edited on: 17/7/2023
