@@ -6,7 +6,7 @@
 
 ## MERN Stack
 
-<div style="color:#ffeb3b"> 
+<div style="color=#ffeb3b"> 
 
 - 👨‍💻 I am currently working on web development technologies like JavaScript, React, MERN Stack, MVC Project, etc.
 - 📚 I am currently learning everything about Frontend and Backend technology 😍
