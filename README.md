@@ -14,7 +14,7 @@
 ---
 
 <div align="center">  
-<img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=tcdtist&theme=dark&hide_border=true&border_radius=5&exclude_days=Sun%2CSat&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="tcdtist github stats" />
+<img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=tcdtist&theme=dark&hide_border=true&border_radius=5&exclude_days=Sun%2CSat" alt="tcdtist github stats" />
   
   <h3 > Skills </h3>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" />
