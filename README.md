@@ -6,10 +6,10 @@
 
 ## MERN Stack
 
-- 👨‍💻 I am currently working on web development technologies like JavaScript, React, MERN Stack, MVC Project, etc.
-- 📚 I am currently learning everything about Frontend and Backend technology 😍
-- 🎯 Future goal: Learn more technologies - Learn to become a full-stack developer.
-- ⚡ Interesting information: Open and friendly. I love reading books, watching movies, and coding.
+- 👨‍💻 Web developer specializing in JavaScript, React, and MERN Stack.
+- 📚 Passionate about expanding knowledge in frontend and backend technologies.
+- 🎯 Future goal: Becoming a skilled full-stack developer.
+- ⚡ Interests: Reading, movies, and coding. Open-minded and friendly.
 
 ---
 
