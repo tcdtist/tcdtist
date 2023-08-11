@@ -9,7 +9,7 @@
 - 👨‍💻 Web developer specializing in JavaScript, React, and MERN Stack.
 - 📚 Passionate about expanding knowledge in frontend and backend technologies.
 - 🎯 Future goal: Becoming a skilled full-stack developer.
-- ⚡ Interests: Reading, movies, and coding. Open-minded and friendly.
+- ⚡ Interests: Coding, movies, and reading. Open-minded and friendly.
 
 ---
 
