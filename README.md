@@ -31,6 +31,7 @@
   <h3> Contact </h3>
   <a href="https://www.linkedin.com/in/chithanh-tist/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://telegram.me/tcdtist"><img src="https://img.shields.io/badge/telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://twitter.com/tcdtist"><img src="https://img.shields.io/badge/twitter.com?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
 ---
