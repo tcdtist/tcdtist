@@ -39,6 +39,6 @@
 
 Credits: [ChiThanh](https://github.com/tcdtist/)
 
-Last Edited on: 17/7/2023
+Last Edited on: Apr 15/2024
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffe500&height=120&section=footer"/>
