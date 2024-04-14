@@ -14,19 +14,19 @@
 ---
 
 <div align="center">  
-<img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com?user=tcdtist&theme=yellowdark&exclude_days=Sun%2CSat" alt="tcdtist github stats" />
+<img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com?user=tcdtist&theme=transparent&exclude_days=Sun%2CSat" alt="tcdtist github stats" />
   
   <h3 > Skills </h3>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue" />
 
   <h3> Tools </h3>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,nginx,figma" />
   
   <h3> Other Knowledge </h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,redis,postgres,mongodb,firebase" />
   
   <h3> Areas of Interest </h3>
-  <img src="https://skillicons.dev/icons?i=tailwind,docker,next,vite,redux,graphql" />
+  <img src="https://skillicons.dev/icons?i=tailwind,docker,next,vite,gastby,redux,graphql" />
 
   <h3> Contact </h3>
   <a href="https://www.linkedin.com/in/chithanh-tist/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
