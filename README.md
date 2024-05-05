@@ -34,6 +34,6 @@ Besides developing, I also run a [Blog](https://blog.tcdtist.com).
 ## 📊 Statistics
 
 <div align="center">
-  <img height="200px" width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=tcdtist&theme=vue&exclude_days=Sun%2CSat" alt="tcdtist github stats" />
-  <img height="200px" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcdtist&layout=compact" alt="top langs" />
+  <img height="100%" width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=tcdtist&theme=vue&exclude_days=Sun%2CSat" alt="tcdtist github stats" />
+  <img height="100%" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcdtist&layout=compact" alt="top langs" />
 </div>
