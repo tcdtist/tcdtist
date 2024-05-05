@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffe500&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffe500&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE,+++I'M+A+WEB+DEVELOPER;MY+EXPERIENCE+>+3+YEARS+IN+PROGRAMMING)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffe500&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE,+++I'M+A+WEB+DEVELOPER;MY+EXPERIENCE+>+4+YEARS+IN+PROGRAMMING)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/hC2mA1FWFs2OowO60p/giphy.gif" />
 
-## MERN Stack
+## MERN Stack Developer
 
-- 👨‍💻 Web developer specializing in JavaScript, React, and MERN Stack.
+- 👨‍💻 Web developer specializing in JavaScript, TypeScript, React, Vue3 and MERN Stack.
 - 📚 Passionate about expanding knowledge in frontend and backend technologies.
 - 🎯 Future goal: Becoming a skilled full-stack developer.
 - ⚡ Interests: Coding, movies, and reading. Open-minded and friendly.
