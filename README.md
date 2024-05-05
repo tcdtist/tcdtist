@@ -15,15 +15,20 @@ Besides developing, I also run a [Blog](https://blog.tcdtist.com).
 
 ## 🛠️ Technologies & Tools
 
-- Skills:
+<div align="center">  
+  <h3 > Skills </h3>
   <img src="https://skillicons.dev/icons?theme=light&i=html,css,js,ts,react,vue" />
-- Tools:
+
+  <h3> Tools </h3>
   <img src="https://skillicons.dev/icons?theme=light&i=vscode,git,github,postman,discord,bitbucket,nginx,figma,aws,cloudflare" />
-- Other Knowledge:
+
+  <h3> Other Knowledge </h3>
   <img src="https://skillicons.dev/icons?theme=light&i=nodejs,express,nestjs,redis,postgres,mongodb,firebase,jest" />
-- Areas of Interest:
+
+  <h3> Areas of Interest </h3>
   <img src="https://skillicons.dev/icons?theme=light&i=tailwind,webpack,docker,next,vercel,vite,gatsby,redux,graphql" />
+</div>
 
 ## 📊 Statistics
 
-[![tcdtist's github stats](https://github-readme-stats.vercel.app/api?username=tcdtist&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<img height="auto" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=tcdtist&theme=vue&exclude_days=Sun%2CSat" alt="tcdtist github stats" />
