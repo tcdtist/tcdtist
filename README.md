@@ -15,7 +15,7 @@ Besides developing, I also run a [Blog](https://blog.tcdtist.com).
 
 ## 🛠️ Technologies & Tools
 
-<div align="center">  
+<div>  
   <h3 > Skills </h3>
   <img src="https://skillicons.dev/icons?theme=light&i=html,css,js,ts,react,vue" />
 
