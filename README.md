@@ -16,16 +16,16 @@ Besides developing, I also run a [Blog](https://blog.tcdtist.com).
 ## 🛠️ Technologies & Tools
 
 <div>  
-  <p> Skills </p>
+  <h5> Skills </h5>
   <img src="https://skillicons.dev/icons?theme=light&i=html,css,js,ts,react,vue" />
 
-  <p> Tools </p>
+  <h5> Tools </h5>
   <img src="https://skillicons.dev/icons?theme=light&i=vscode,git,github,postman,discord,bitbucket,figma,aws,cloudflare" />
 
-  <p> Other Knowledge </p>
+  <h5> Other Knowledge </h5>
   <img src="https://skillicons.dev/icons?theme=light&i=nodejs,express,mongodb,nestjs,redis,postgres,firebase,graphql" />
 
-  <p> Areas of Interest </p>
+  <h5> Areas of Interest </h5>
   <img src="https://skillicons.dev/icons?theme=light&i=tailwind,docker,next,vercel,vite,gatsby,redux,jest" />
 </div>
 
