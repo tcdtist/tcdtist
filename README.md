@@ -21,6 +21,7 @@ Besides developing, I also run a [Blog](https://blog.tcdtist.com).
 
   <h5> Tools </h5>
   <img src="https://skillicons.dev/icons?theme=light&i=vscode,git,github,postman,discord,bitbucket,figma,notion" />
+  <br/>
   <img src="https://skillicons.dev/icons?theme=light&i=yarn,docker,vercel,vite,gatsby,redux,jest" />
 
   <h5> Other Knowledge </h5>
