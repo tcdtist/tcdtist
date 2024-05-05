@@ -17,16 +17,17 @@ Besides developing, I also run a [Blog](https://blog.tcdtist.com).
 
 <div>  
   <h5> Skills </h5>
-  <img src="https://skillicons.dev/icons?theme=light&i=html,css,js,ts,react,vue" />
+  <img src="https://skillicons.dev/icons?theme=light&i=html,css,js,ts,react,next,vue,tailwind,materialui,bootstrap" />
 
   <h5> Tools </h5>
-  <img src="https://skillicons.dev/icons?theme=light&i=vscode,git,github,postman,discord,bitbucket,figma,aws,cloudflare" />
+  <img src="https://skillicons.dev/icons?theme=light&i=vscode,git,github,postman,discord,bitbucket,figma,notion" />
+  <img src="https://skillicons.dev/icons?theme=light&i=yarn,docker,vercel,vite,gatsby,redux,jest" />
 
   <h5> Other Knowledge </h5>
   <img src="https://skillicons.dev/icons?theme=light&i=nodejs,express,mongodb,nestjs,redis,postgres,firebase,graphql" />
 
   <h5> Areas of Interest </h5>
-  <img src="https://skillicons.dev/icons?theme=light&i=tailwind,docker,next,vercel,vite,gatsby,redux,jest" />
+  <img src="https://skillicons.dev/icons?theme=light&i=aws,azure,babel,cloudflare,bun,deno,py" />
 </div>
 
 ## 📊 Statistics
