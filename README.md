@@ -1,15 +1,15 @@
 ## 👋 Hi! I'm Chi Thanh Dang
 
-### Full Stack Engineer focused on building products with extra attention to detail.
+Full Stack Engineer focused on building products with extra attention to detail.
 
 ## 📚 Writing
 
-Besides developing, I also run a [Blog](https://blog.tcdtist.com).
+Besides developing, I also run a [Blog](https://blog.tcdtist.com/).
 
 ## 🧑‍💻 About me
 
-- 👨‍💻 Web developer specializing in JavaScript, TypeScript, React, Nextjs, Vue3 and MERN Stack.
-- 📚 Passionate about expanding knowledge in frontend and backend technologies.
+- 👨‍💻 Web developer specializing in JavaScript, TypeScript, React, Nextjs, Vue3.
+- 📚 Passionate about expanding knowledge in frontend and backend technologies (MERN Stack).
 - 🎯 Future goal: Becoming a skilled full-stack developer. Share to learn!
 - ⚡ Interests: Coding, reading and movies. Open-minded and friendly.
 
