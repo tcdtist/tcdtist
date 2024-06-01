@@ -16,14 +16,9 @@ In addition to software development, I enjoy sharing my knowledge and experience
 
 ## Featured Projects
 
-### 1. [Shoplite - E-Commerce Web Application](https://shoplite.tcdtist.com/)
-A feature-rich e-commerce web application built with React, Next.js, and Node.js. It includes functionalities such as product catalog, shopping cart, checkout process, order tracking, and admin dashboard. The application integrates with third-party services like Stripe for secure payment processing and SendGrid for transactional emails. It also utilizes server-side rendering (SSR) and static site generation (SSG) for improved performance and SEO.
-
-### 2. [Collabora - Real-time Collaboration Platform](https://collabora.tcdtist.com/)
-A real-time collaboration platform built with Vue.js, Socket.IO, and MongoDB. It allows multiple users to collaborate on documents, share code snippets, and engage in video conferencing. The platform incorporates features like real-time text editing, code syntax highlighting, screen sharing, and video chat. It also includes user authentication, access controls, and version control for documents.
-
-### 3. [TaskFlow - Task Management System](https://taskflow.tcdtist.com/)
-A robust task management system developed with React, NestJS, and PostgreSQL. It offers functionalities such as project creation, task assignment, progress tracking, and team collaboration. The system incorporates features like Kanban boards, Gantt charts, notifications, and reporting. It also includes integration with popular project management tools like Jira and Trello through APIs.
+- **[Shoplite - E-Commerce Web Application](https://ecommerce-app.tcdtist.com/)**: Feature-rich e-commerce application built with React, Next.js, Node.js, integrated with Stripe and SendGrid. Utilizes SSR, SSG for optimized performance and SEO.
+- **[Collabora - Real-time Collaboration Platform](https://collaboration-platform.tcdtist.com/)**: Real-time collaboration platform with Vue.js, Socket.IO, MongoDB. Allows document collaboration, code sharing, video conferencing. Features real-time editing, screen sharing, user authentication.
+- **[TaskFlow - Task Management System](https://task-management.tcdtist.com/)**: Robust task management system with React, NestJS, PostgreSQL. Project creation, task assignment, progress tracking, team collaboration. Integrates Kanban, Gantt charts, notifications, reporting, connects with Jira, Trello.
 
 ## Goals and Interests
 
