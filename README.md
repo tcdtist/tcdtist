@@ -12,13 +12,13 @@ I am a Full Stack Engineer with a passion for building high-quality products and
 
 ## Writing and Sharing
 
-In addition to software development, I enjoy sharing my knowledge and experiences through writing. I run a personal blog at [https://blog.tcdtist.com](https://blog.tcdtist.com) where I document my learnings and insights on various topics related to web development.
+In addition to software development, I enjoy sharing my knowledge and experiences through writing. I run a personal [blog](https://blog.tcdtist.com) at where I document my learnings and insights on various topics related to web development.
 
 ## Featured Projects
 
-- **[Shoplite - E-Commerce Web Application](https://ecommerce-app.tcdtist.com/)**: Feature-rich e-commerce application built with React, Next.js, Node.js, integrated with Stripe and SendGrid. Utilizes SSR, SSG for optimized performance and SEO.
-- **[Collabora - Real-time Collaboration Platform](https://collaboration-platform.tcdtist.com/)**: Real-time collaboration platform with Vue.js, Socket.IO, MongoDB. Allows document collaboration, code sharing, video conferencing. Features real-time editing, screen sharing, user authentication.
-- **[TaskFlow - Task Management System](https://task-management.tcdtist.com/)**: Robust task management system with React, NestJS, PostgreSQL. Project creation, task assignment, progress tracking, team collaboration. Integrates Kanban, Gantt charts, notifications, reporting, connects with Jira, Trello.
+- **[Shoplite](https://ecommerce-app.tcdtist.com/)** (E-Commerce Web Application): Feature-rich e-commerce application built with React, Next.js, Node.js, integrated with Stripe and SendGrid. Utilizes SSR, SSG for optimized performance and SEO.
+- **[Collabora](https://collaboration-platform.tcdtist.com/)** (Real-time Collaboration Platform): Real-time collaboration platform with Vue.js, Socket.IO, MongoDB. Allows document collaboration, code sharing, video conferencing. Features real-time editing, screen sharing, user authentication.
+- **[TaskFlow](https://task-management.tcdtist.com/)** (Task Management System): Robust task management system with React, NestJS, PostgreSQL. Project creation, task assignment, progress tracking, team collaboration. Integrates Kanban, Gantt charts, notifications, reporting, connects with Jira, Trello.
 
 ## Goals and Interests
 
