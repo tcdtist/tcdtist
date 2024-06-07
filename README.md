@@ -28,13 +28,13 @@ My ultimate goal is to become a highly skilled full-stack developer, continuousl
 
 <div>
   <h3>Front-end</h3>
-  <img src="https://skillicons.dev/icons?theme=light&i=html,css,js,ts,react,next,vue,tailwind,materialui,bootstrap" />
+  <img src="https://skillicons.dev/icons?theme=light&i=html,css,js,ts,react,next,vue,nuxt,tailwind,materialui,bootstrap" />
   <h3>Back-end</h3>
   <img src="https://skillicons.dev/icons?theme=light&i=nodejs,express,mongodb,nestjs,redis,postgres,firebase,graphql" />
   <h3>Tools and Frameworks</h3>
   <img src="https://skillicons.dev/icons?theme=light&i=vscode,git,github,postman,discord,bitbucket,figma,notion,yarn,docker,vercel,vite,gatsby,redux,jest" />
   <h3>Areas of Interest</h3>
-  <img src="https://skillicons.dev/icons?theme=light&i=aws,azure,babel,cloudflare,bun,deno,py" />
+  <img src="https://skillicons.dev/icons?theme=light&i=aws,azure,babel,cloudflare,bun,deno,py,golang" />
 </div>
 
 ## GitHub Statistics
