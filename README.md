@@ -1,8 +1,6 @@
-# Hi there, I'm Chi Thanh Dang (tist) 👋
+<h1 align="center">Hi there, I'm Chi Thanh Dang (tist) 👋</h1>
 
-## Technology Stack
-
-<div>
+<div align="center">
   <h3>Front-end</h3>
   <img src="https://skillicons.dev/icons?theme=light&i=html,css,js,ts,react,next,vue,nuxt,tailwind,materialui,bootstrap" />
   <h3>Back-end</h3>
@@ -12,8 +10,7 @@
   <h3>Areas of Interest</h3>
   <img src="https://skillicons.dev/icons?theme=light&i=aws,azure,babel,cloudflare,bun,deno,py,golang" />
 </div>
-
-## GitHub Statistics
+<br/>
 
 <div align="center">
   <img style="max-width: 500px; width: auto; height: auto;" src="https://github-readme-streak-stats.herokuapp.com?user=tcdtist&theme=vue&exclude_days=Sun%2CSat" alt="tcdtist github stats" />
