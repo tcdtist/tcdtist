@@ -1,19 +1,26 @@
-<h1 align="center">Hi there, I'm Chi Thanh Dang (tist) 👋</h1>
+# 👋 Hi, I'm Chi Thanh Dang (tist)
 
-<div align="center">
-  <h3>Front-end</h3>
-  <img src="https://skillicons.dev/icons?theme=light&i=html,css,js,ts,react,next,vue,nuxt,tailwind,materialui,bootstrap" />
-  <h3>Back-end</h3>
-  <img src="https://skillicons.dev/icons?theme=light&i=nodejs,express,mongodb,nestjs,redis,postgres,firebase,graphql" />
-  <h3>Tools and Frameworks</h3>
-  <img src="https://skillicons.dev/icons?theme=light&i=vscode,git,github,postman,discord,bitbucket,figma,notion,yarn,docker,vercel,vite,gatsby,redux,jest" />
-  <h3>Areas of Interest</h3>
-  <img src="https://skillicons.dev/icons?theme=light&i=aws,azure,babel,cloudflare,bun,deno,py,golang" />
-</div>
+<img align="center" width="512" height="256" src="https://tcdtist.com/assets/images/about.svg">
+
 <br/>
 
-<div align="center">
-  <img style="max-width: 500px; width: auto; height: auto;" src="https://github-readme-streak-stats.herokuapp.com?user=tcdtist&theme=vue&exclude_days=Sun%2CSat" alt="tcdtist github stats" />
-  <br/>
-  <img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcdtist&layout=compact" alt="top langs" />
-</div>
+- 👨🏻‍💻 A Front-End Web Developer focused on creating performant and scalable web applications
+- 🎓 Former student of FPT Computer Systems
+- 🏃‍♂️ Developer and running enthusiast
+- 🧑‍💻 Organizing knowledge and code-sharing sessions
+- 🌐 Blog: [https://blog.tcdtist.com/](https://blog.tcdtist.com/)
+- 💼 Portfolio: [https://tcdtist.com/](https://tcdtist.com/)
+- 📍 Currently working with cutting-edge frameworks like React, Next.js, Vue.js, and many more
+
+You can follow me here:
+
+[![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Ftcdtist&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://404.li/github)
+[![Twitter](https://img.shields.io/badge/Twitter-@tcdtist-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tcdtist)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tcdtist-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tcdtist)
+[![Blogs](https://komarev.com/ghpvc/?username=tcdtist&color=blue&style=flat-square&label=Blog)](https://blog.tcdtist.com/)
+
+---
+
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tcdtist&theme=solarized)
+![Top Language Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tcdtist&theme=solarized)
+![Top Language Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tcdtist&theme=solarized)
