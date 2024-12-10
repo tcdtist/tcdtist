@@ -8,9 +8,9 @@
 - 🎓 Former student of FPT Computer Systems
 - 🏃‍♂️ Developer and running enthusiast
 - 🧑‍💻 Organizing knowledge and code-sharing sessions
-- 🌐 Blog: [https://blog.tcdtist.com/](https://blog.tcdtist.com/)
-- 💼 Portfolio: [https://tcdtist.com/](https://tcdtist.com/)
-- 📍 Currently working with cutting-edge frameworks like React, Next.js, Vue.js, and many more
+- 🌐 Blog: [blog.tcdtist.com](https://blog.tcdtist.com/)
+- 💼 Portfolio: [tcdtist.com](https://tcdtist.com/)
+- 📍 Currently working with React, Next.js, Vue.js, Nuxt.js, Astro, Node.js, Tailwind CSS, and more.
 
 You can follow me here:
 
