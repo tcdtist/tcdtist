@@ -30,7 +30,6 @@
 You can follow me here:
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Ftcdtist\&query=count\&color=181717\&label=GitHub\&labelColor=282c34\&logo=github\&suffix=+follows\&cacheSeconds=3600)](https://github.com/tcdtist)
-[![Website](https://img.shields.io/website?down_color=282c34&down_message=https%3A%2F%2christhanhdang.dev&logo=rss&style=flat-square&up_color=181717&up_message=https%3A%2F%2Fchristhanhdang.dev&url=https%3A%2F%2Fchristhanhdang.dev)](https://christhanhdang.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-@christhanhdang-1DA1F2?style=flat-square\&logo=twitter\&logoColor=white)](https://twitter.com/christhanhdang)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-christhanhdang-blue?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/christhanhdang)
 [![Blogs](https://komarev.com/ghpvc/?username=christhanhdang\&color=blue\&style=flat-square\&label=Blog)](https://blog.christhanhdang.dev/)
