@@ -4,6 +4,17 @@
 
 <br/>
 
+* 👨‍💻 Front-End Developer passionate about high-performance, scalable web applications
+* 🎓 Former FPT Information Systems student, currently studying AI at UIT
+* 🏃‍♂️ Developer with a love for running, hiking, trekking and daily 1-hour speed walking
+* 🧑‍💻 Organizing knowledge-sharing sessions and contributing to developer communities
+* ✨ Focused on code quality, performance optimization, and modern architecture patterns
+* 📈 Exploring DX improvements and clean code best practices
+* 🌐 Blog: [blog.christhanhdang.dev](https://blog.christhanhdang.dev/)
+* 💼 Portfolio: [christhanhdang.dev](https://christhanhdang.dev/)
+* 📍 Tech stack: React, Next.js, Vue.js, Nuxt.js, Astro, Node.js, Tailwind CSS, TypeScript, Vitest, Playwright
+
+<!--
 * 👨‍💻 A Front-End Web Developer passionate about building high-performance, scalable web applications with modern frameworks
 * 🎓 Former student of FPT Computer Systems
 * 🏃‍♂️ Developer and running enthusiast
@@ -13,14 +24,17 @@
 * ✨ Recently working on projects using **Next.js App Router (v14)**, advanced **Tailwind CSS techniques**, and performance-driven design
 * 🌐 Blog: [blog.christhanhdang.dev](https://blog.christhanhdang.dev/)
 * 💼 Portfolio: [christhanhdang.dev](https://christhanhdang.dev/)
-* 📍 Currently using: React, Next.js, Vue.js, Nuxt.js, Astro, Node.js, Tailwind CSS, TypeScript, Vitest, Playwright, and more
+* 📍 Currently using: React, Next.js, Nuxt.js, Vue.js, Astro, Node.js, Tailwind CSS, TypeScript, Vitest, Playwright, and more
+-->
 
 You can follow me here:
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Ftcdtist\&query=count\&color=181717\&label=GitHub\&labelColor=282c34\&logo=github\&suffix=+follows\&cacheSeconds=3600)](https://github.com/tcdtist)
+[![Website](https://img.shields.io/website?down_color=282c34&down_message=https%3A%2F%2christhanhdang.dev&logo=rss&style=flat-square&up_color=181717&up_message=https%3A%2F%2Fchristhanhdang.dev&url=https%3A%2F%2Fchristhanhdang.dev)](https://christhanhdang.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-@christhanhdang-1DA1F2?style=flat-square\&logo=twitter\&logoColor=white)](https://twitter.com/christhanhdang)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-christhanhdang-blue?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/christhanhdang)
 [![Blogs](https://komarev.com/ghpvc/?username=christhanhdang\&color=blue\&style=flat-square\&label=Blog)](https://blog.christhanhdang.dev/)
+[![Sponsor Giorgi](https://img.shields.io/badge/%24%24-Sponsor%20Me-85bb65?style=flat-square&logo=Github)](https://github.com/sponsors/tcdtist)
 
 ---
 
