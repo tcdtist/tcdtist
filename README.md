@@ -1,31 +1,21 @@
-# 👋 Hi, I'm Chris Thanh Dang (Chi Thanh Dang)
+# 👋 Hi, I'm Thanh Dang Chi (Thomas)
 
 <img align="center" width="512" height="256" src="https://christhanhdang.dev/assets/images/about.svg">
 
 <br/>
 
-* 👨‍💻 Front-End Developer passionate about high-performance, scalable web applications
-* 🎓 Former FPT Information Systems student, currently studying AI at UIT
-* 🏃‍♂️ Developer with a love for running, hiking, trekking and daily 1-hour speed walking
-* 🧑‍💻 Organizing knowledge-sharing sessions and contributing to developer communities
-* ✨ Focused on code quality, performance optimization, and modern architecture patterns
-* 📈 Exploring DX improvements and clean code best practices
-* 🌐 Blog: [blog.christhanhdang.dev](https://blog.christhanhdang.dev/)
-* 💼 Portfolio: [christhanhdang.dev](https://christhanhdang.dev/)
-* 📍 Tech stack: React, Next.js, Vue.js, Nuxt.js, Astro, Node.js, Tailwind CSS, TypeScript, Vitest, Playwright
-
-<!--
-* 👨‍💻 A Front-End Web Developer passionate about building high-performance, scalable web applications with modern frameworks
-* 🎓 Former student of FPT Computer Systems
-* 🏃‍♂️ Developer and running enthusiast
-* 🧑‍💻 Actively organizing knowledge-sharing sessions and contributing to developer communities
-* ✨ Focused on improving code quality, performance optimization, and adopting modern architectural patterns (e.g., file-based routing, modular monolith)
-* 📈 Exploring DX improvements and advocating clean code, testing, and maintainability best practices
-* ✨ Recently working on projects using **Next.js App Router (v14)**, advanced **Tailwind CSS techniques**, and performance-driven design
-* 🌐 Blog: [blog.christhanhdang.dev](https://blog.christhanhdang.dev/)
-* 💼 Portfolio: [christhanhdang.dev](https://christhanhdang.dev/)
-* 📍 Currently using: React, Next.js, Nuxt.js, Vue.js, Astro, Node.js, Tailwind CSS, TypeScript, Vitest, Playwright, and more
--->
+* 👨‍💻 Full Stack Developer passionate about building scalable, high-performance web applications  
+* 🎓 Former FPT Information Systems student, currently studying AI at UIT  
+* 🏃‍♂️ Developer with a love for running, hiking, trekking and daily 1-hour fitness
+* 🧑‍💻 Organizing knowledge-sharing sessions and contributing to developer communities  
+* ✨ Focused on clean code, modern architecture, and developer experience (DX)  
+* 📈 Exploring full-stack best practices and testing strategies  
+* 🌐 Blog: [blog.christhanhdang.dev](https://blog.christhanhdang.dev/)  
+* 💼 Portfolio: [christhanhdang.dev](https://christhanhdang.dev/)  
+* 📍 Tech stack:  
+  - Frontend: React, Next.js, Vue.js, Nuxt.js, Tailwind CSS, TypeScript  
+  - Backend: Node.js, Express, NestJS, PostgreSQL, MongoDB, Kafka, RabbitMQ, Redis  
+  - Tools: Vitest, Playwright, Docker, CI/CD, Vercel, Railway, AWS
 
 You can follow me here:
 
