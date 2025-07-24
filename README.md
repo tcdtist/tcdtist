@@ -28,5 +28,8 @@ You can follow me here:
 ---
 
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tcdtist\&theme=solarized)
+
+<!--
 ![Top Language Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tcdtist\&theme=solarized)
 ![Top Language Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tcdtist\&theme=solarized)
+-->
