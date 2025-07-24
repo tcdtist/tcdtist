@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thanh Dang Chi (Thomas)
+# 👋 Hi, I'm Thanh Dang (Thomas)
 
 <img align="center" width="512" height="256" src="https://christhanhdang.dev/assets/images/about.svg">
 
