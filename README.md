@@ -6,7 +6,7 @@
 
 * 👨‍💻 Full Stack Developer passionate about building scalable, high-performance web applications  
 * 🎓 Former FPT Information Systems student, currently studying AI at UIT  
-* 🏃‍♂️ Developer with a love for running, hiking, trekking and daily 1-hour fitness
+* 💪 Fuck running/hiking - now it's all about crushing 1-hour gym sessions daily, damnnn
 * 🧑‍💻 Organizing knowledge-sharing sessions and contributing to developer communities  
 * ✨ Focused on clean code, modern architecture, and developer experience (DX)  
 * 📈 Exploring full-stack best practices and testing strategies  
